@@ -1,4 +1,4 @@
-let botao = document.querySelector("#botao");
+let botao = document.querySelector("#botao-id");
 const mensagem = document.querySelector("#mensagem");
 
 botao.addEventListener("click", mostrar_mensagem);
